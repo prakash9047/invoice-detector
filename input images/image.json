@@ -1,0 +1,138 @@
+{
+    "invoices": [
+      {
+        "invoice_number": "380",
+        "invoice_date": "27/08/2024",
+        "company_name": "S.S. ENGINEERING",
+        "gstin": "33ABGFS2267Q1ZN",
+        "address": "48/3, Subramaniya Nagar, Chinnavedampatti, Ganapathy, Coimbatore - 641 006",
+        "phone": "99944 68829, 99528 65823",
+        "email": "ssengineering1999@gmail.com",
+        "to": "Arunsite Engineering",
+        "party_gst_no": "33AANFA8028P1Z9",
+        "po_no": "227",
+        "po_date": "10/04/2024",
+        "payment_due_on": "30/09/2024",
+        "hsn_code": "7318 1190",
+        "items": [
+          {
+            "description": "MS x 116 ms Shd",
+            "item_code": "91301",
+            "quantity": 900,
+            "rate": 2.20,
+            "amount": 1980
+          },
+          {
+            "description": "MS x 126 ms Shd",
+            "item_code": "89735",
+            "quantity": 1200,
+            "rate": 2.40,
+            "amount": 2880
+          },
+          {
+            "description": "MS x 134 ms Shd",
+            "item_code": "72211",
+            "quantity": 2700,
+            "rate": 2.40,
+            "amount": 6480
+          },
+          {
+            "description": "MS x 148 ms Shd",
+            "item_code": "79318",
+            "quantity": 1800,
+            "rate": 2.50,
+            "amount": 4500
+          }
+        ],
+        "total_amount": 15840,
+        "cgst": 1425,
+        "sgst": 1425,
+        "total": 18691,
+        "total_rounded": 18691,
+        "amount_in_words": "Eighteen thousand six hundred ninety one only"
+      },
+      {
+        "invoice_number": "WRJ016",
+        "invoice_date": "30-JUN-24",
+        "company_name": "HINDALCO INDUSTRIES LTD",
+        "gstin": "27AAACH1894N1ZH",
+        "address": "Hindalco Industries Limited, Century Bhavan, 3rd Floor, Dr. Annie Besant Road, Worli, Mumbai - 400 030",
+        "to": "ADITYA BIRLA MANAGEMENT CORPORATION PVT. LTD.",
+        "ship_to": "ADITYA BIRLA MANAGEMENT CORPORATION PVT. LTD.",
+        "po_number": "4500164189",
+        "po_date": "17/06/24",
+        "items": [
+          {
+            "description": "Consultancy Charges for the month of June 2024 as per PO No. 4500164189",
+            "hsn_sac": "998599",
+            "quantity": 1,
+            "rate": 7850000,
+            "value": 7850000
+          }
+        ],
+        "total_value": 7850000,
+        "cgst_rate": 9,
+        "cgst_amount": 706500,
+        "sgst_rate": 9,
+        "sgst_amount": 706500,
+        "total_tax_amount": 1413000,
+        "total_amount": 9263000,
+        "amount_in_words": "Rupees Ninety Two Lakhs Sixty Three Thousand Only"
+      },
+      {
+        "invoice_number": "KCI/24-25/0935",
+        "invoice_date": "14-Jun-2024",
+        "company_name": "Saroj Enterprises",
+        "gstin": "33ACAPJ0579P1ZE",
+        "address": "10, Saravana Nagar, Off Mettupalayam Road, Kavundampalayam,Coimbatore-641030",
+        "phone": "0422-4392535,4392910,9790901133",
+        "email": "Mail@sarojindia.Com",
+        "to": "Renmo Machine Works Private Limited",
+        "ship_to": "1/463, Sri Lakshmi Nagar, Thoppampatti Pirivu, K. Vadamadurai Post, Coimbatore - 641017",
+        "buyer_gstin": "33AAMCR7592A1ZB",
+        "po_number": "2426U02FP00035",
+        "po_date": "5-Apr-2024",
+        "items": [
+          {
+            "description": "Loctite 243 - 50 Ml (1367282)",
+            "hsn_sac": "3506",
+            "item_code": "76667",
+            "quantity": 10,
+            "rate": 521.00,
+            "amount": 5210.00
+          }
+        ],
+        "total_amount": 5210.00,
+        "cgst": 468.90,
+        "sgst": 468.90,
+        "total": 6148.00,
+        "amount_in_words": "Indian Rupees Six Thousand One Hundred Forty Eight Only"
+      },
+      {
+        "invoice_number": "24MJAJ0016891",
+        "invoice_date": "14-Jun-2024",
+        "company_name": "JSPL Steel Limited",
+        "gstin": "24AAACJ1102N1Z7",
+        "address": "PLOT NO. 1, GIDC INDUSTRIAL ESTATE, VILLAGE - SAMAGHOGHA, TALUKA - MANGROL, DIST- SURAT-394116",
+        "to": "ADANI POWER MAHARASHTRA LIMITED",
+        "ship_to": "ADANI POWER MAHARASHTRA LIMITED, TIRODA TPP, NEAR VILLAGE - TIRODA, DIST - GONDIA, TIRODA - 441911",
+        "po_number": "P19ARBPK00011",
+        "items": [
+          {
+            "description": "COAL FINE BLEND",
+            "hsn_code": "2701",
+            "quantity": 4200.000,
+            "rate": 9909.00,
+            "amount": 41617800.00
+          }
+        ],
+        "total_amount": 41617800.00,
+        "cgst_rate": 2.5,
+        "cgst_amount": 1040445.00,
+        "sgst_rate": 2.5,
+        "sgst_amount": 1040445.00,
+        "total": 43698690.00,
+        "amount_in_words": "Rupees Four Crores Thirty Six Lakhs Ninety Eight Thousand Six Hundred Ninety Only"
+      }
+    ]
+  }
